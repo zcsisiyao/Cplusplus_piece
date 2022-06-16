@@ -34,4 +34,3 @@ int main(){
 	cout << a.reverseString(b) << endl;
 	return 0;
 }
-
